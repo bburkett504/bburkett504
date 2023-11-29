@@ -1,7 +1,7 @@
 # Hi there 👋
 ### **My name is Brian Burkett
 #### **I am a Data Analyst**
-#### **https://www.linkedin.com/in/brian-burkett-mba-73567041/**
+#### **connect with me @ [brian-burkett-mba](https://www.linkedin.com/in/brian-burkett-mba-73567041/)**
 
 <!--
 **bburkett504/bburkett504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
